@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/about.png</file>
+        <file>icons/about3.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/fixp3.png</file>
+        <file>icons/start.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>fixp3_ru.qm</file>
+        <file>fixp3.png</file>
+    </qresource>
+</RCC>
