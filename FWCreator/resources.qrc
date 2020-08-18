@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="open.png">icons/open.png</file>
+        <file alias="about.png">icons/about.png</file>
+		<file alias="console.png">icons/console.png</file>
+        <file alias="folder.png">icons/folder.png</file>
+        <file alias="binary.png">icons/execute.png</file>
+        <file alias="script.png">icons/script.png</file>
+        <file alias="config.png">icons/config.png</file>
+        <file alias="logfile.png">icons/logfile.png</file>
+        <file alias="unknown.png">icons/unknown.png</file>
+        <file alias="openfw.png">icons/openfw.png</file>
+        <file alias="create.png">icons/create.png</file>
+        <file alias="exit.png">icons/exit.png</file>
+        <file alias="delete.png">icons/delete.png</file>
+        <file alias="extract.png">icons/extract.png</file>
+        <file alias="load.gif">icons/load.gif</file>
+        <file alias="tool.png">icons/tool.png</file>
+        <file alias="add_ip.png">icons/add_ip.png</file>
+        <file alias="remove_ip.png">icons/remove_ip.png</file>
+    </qresource>
+    <qresource prefix="/binary">
+        <file alias="unzip">binary/unzipsfx</file>
+    </qresource>
+    <qresource prefix="/translator">
+        <file>fwcreator_ru.qm</file>
+    </qresource>
+</RCC>
